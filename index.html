@@ -294,7 +294,7 @@
 
     var scenes = {
         overview: {lat: 40.127259, lng: -98.796116, zoom: 4, position: 'fullpage', name: 'Cover Page'},
-        country: {lat: 37.782654, lng: -120.163012, zoom: 4, name: 'Introduction', layers:['bing','state','colors']},
+        country: {lat: 37.782654, lng: -120.163012, zoom: 4, name: 'Introduction', layers:['state','colors']},
         environment: {lat: 37.782654, lng: -120.163012, zoom: 4, name: 'Impact of Environment', layers: ['bing','state','quality']},
         hoover: {lat: 36.0157356, lng: -114.7401217, zoom: 17, name: 'Hoover Dam', layers:['bing'] },
         oroville: {lat: 39.539437, lng: -121.496601, zoom: 15, name: 'Oroville Dam', layers:['bing']},
@@ -320,7 +320,7 @@
             var map = L.map('map', {zoomControl: false, scrollWheelZoom: false});
 
             // add an base map, which can be either OSM, mapbox, tilelayer, wmslayer or those designed by yourself.
-            L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw', {
+            L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
                 maxZoom: 18,
                 attribution: '<a href="http://ceoas.oregonstate.edu/profile/tang/" target="_blank">Yingqi Tang</a>',
                 id: 'mapbox.light' // ,detectRetina: true
