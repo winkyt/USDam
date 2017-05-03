@@ -6,3 +6,5 @@ This website contains inforamtion about dams in the U.S., environmental impacts 
 * Oroville dam: the tallest dam in the U.S.. In 2017, the water level was so high and about 200,000 population from the area needed to be evacuated. 
 * Bonneville dam: A project relate to Great Depression at the 30's 
 * Lower Snake River dams: Scientists agree to remove the dams. 
+
+To view the webside:http://rawgit.com/winkyt/USDam/master/USdam.html
