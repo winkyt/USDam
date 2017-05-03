@@ -6,5 +6,6 @@ The International Commission on Large Dams states that a large dam either is at 
 *	Oroville dam: the tallest dam in the U.S. In 2017, the water level was so high that about 200,000 residents in the nearby area needed to be evacuated.
 * Bonneville dam: A project relate to Great Depression at the 1930's
 * Lower Snake River dams: Scientists agree to remove the dams 
+
 To view the website: http://rawgit.com/winkyt/USDam/master/index.html
 
