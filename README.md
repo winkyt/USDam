@@ -4,5 +4,5 @@ This is a story map that shows information about dams in the United States.
 This website contains inforamtion about dams in the U.S., environmental impacts of dams, and presents four dams in the U.S.
 * Hoover dams: created the biggest reservoir in the U.S.
 * Oroville dams: the tallest dam in the U.S.. In 2017, the water level was so high and about 200,000 population from the area needed to be evacuated. 
-* Bonneville dams: A project relate to Great Depression at the 30s 
+* Bonneville dams: A project relate to Great Depression at the 30's 
 * Lower Snake River dams: Scientists agree to remove the dams. 
