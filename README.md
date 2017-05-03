@@ -1,5 +1,5 @@
 # The U.S.Dam
-Worldwide, many countries have built dams on their rivers. Among 140 countries, about 800,000 small dams and 50,000 large dams were builtThe International Commission on Large Dams states that a large dam either is at least 15 meters tall from its lowest foundation to its crest, or it stores more than 3 million cubic meters of water with a height between 5 meters to 15 meters.
+Worldwide, many countries have built dams on their rivers. Among 140 countries, about 800,000 small dams and 50,000 large dams were built. The International Commission on Large Dams states that a large dam either is at least 15 meters tall from its lowest foundation to its crest, or it stores more than 3 million cubic meters of water with a height between 5 meters to 15 meters.
 This is a story map that shows information about dams in the United States. 
 This website contains inforamtion about dams in the U.S., environmental impacts of dams, and presents four dams in the U.S.
 * Hoover dams: created the biggest reservoir in the U.S.
